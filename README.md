@@ -1,1 +1,1 @@
-# Bookmarklet.js
+# GoGuardian Blocker Javascript
